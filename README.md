@@ -16,6 +16,10 @@ Traduction française pour Deltarune Chapter 3.
 🔧 En cours de développement  
 📅 Release bientôt disponible
 
+## MANQUE D'UNE TRADUCTION??
+
+Dite moi simplement le texte non traduis, et ça sera traduit.
+
 ## Contribution
 - Signalez les bugs dans Issues
 - ⭐ Star le repo pour accélérer le développement
