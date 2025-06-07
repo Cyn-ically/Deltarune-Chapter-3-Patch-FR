@@ -1,5 +1,7 @@
 # Deltarune Chapter 3 - Patch Français
 
+# 1 STAR = 1 PHRASE ! (Actuellement 1000/20000)
+
 Traduction française pour Deltarune Chapter 3.
 
 ## Prérequis
