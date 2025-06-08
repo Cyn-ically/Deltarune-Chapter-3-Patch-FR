@@ -1,7 +1,5 @@
 # Deltarune Chapter 3 - Patch Français
 
-# 1 STAR = 1 PHRASE ! (Actuellement 1000/20000)
-
 Traduction française pour Deltarune Chapter 3.
 
 ## Prérequis
@@ -27,3 +25,5 @@ Dites-moi simplement le texte non traduit, et il sera traduit.
 - ⭐ Star le repo pour accélérer le développement
 
 *Projet non-officiel - Deltarune © Toby Fox*
+
+# info, utilisation de l'IA (Une correction plus appronfondis ce fera après pour corriger toutes les erreurs de l'IA)
