@@ -1,5 +1,7 @@
 # Deltarune Chapter 3 - Patch Français
 
+# NE PAS UTILISER 
+
 Traduction française pour Deltarune Chapter 3.
 
 ## Prérequis
